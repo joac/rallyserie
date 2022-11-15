@@ -9,15 +9,15 @@
  - 4 carreras  3    (3.9%)
 
 ## Resultados Campeonato
- - * 1* - (64) _(2 fechas)_ *Gerez Jonatan*  _(Salto: 2 Arrecifes: 1)_
- - * 2* - (53) _(2 fechas)_ *Amondaray Mariano*  _(Salto: 3 Brandsen: 2)_
- - * 3* - (47) _(3 fechas)_ *Rienzi Gonzalo*  _(Diego_Gaynor: 6 Brandsen: 5 Arrecifes: 6)_
- - * 4* - (46) _(3 fechas)_ *Zaya Sergio*  _(Diego_Gaynor: 5 Salto: 12 Brandsen: 4)_
- - * 5* - (45) _(3 fechas)_ *Jauregui Guillermo*  _(Diego_Gaynor: 13 Salto: 5 Arrecifes: 4)_
- - * 6* - (44) _(4 fechas)_ *Escalante Matias*  _(Diego_Gaynor: 11 Salto: 19 Brandsen: 6 Arrecifes: 5)_
- - * 7* - (38) _(2 fechas)_ *Boffa Emmanuel*  _(Salto: 7 Arrecifes: 3)_
- - * 8* - (37) _(3 fechas)_ *Lucidi Nicolas*  _(Diego_Gaynor: 4 Salto: 17 Brandsen: 8)_
- - * 9* - (35) _(1 fechas)_ *Marin Miguel Angel*  _(Diego_Gaynor: 1)_
+ - *1* - (64) _(2 fechas)_ *Gerez Jonatan*  _(Salto: 2 Arrecifes: 1)_
+ - *2* - (53) _(2 fechas)_ *Amondaray Mariano*  _(Salto: 3 Brandsen: 2)_
+ - *3* - (47) _(3 fechas)_ *Rienzi Gonzalo*  _(Diego_Gaynor: 6 Brandsen: 5 Arrecifes: 6)_
+ - *4* - (46) _(3 fechas)_ *Zaya Sergio*  _(Diego_Gaynor: 5 Salto: 12 Brandsen: 4)_
+ - *5* - (45) _(3 fechas)_ *Jauregui Guillermo*  _(Diego_Gaynor: 13 Salto: 5 Arrecifes: 4)_
+ - *6* - (44) _(4 fechas)_ *Escalante Matias*  _(Diego_Gaynor: 11 Salto: 19 Brandsen: 6 Arrecifes: 5)_
+ - *7* - (38) _(2 fechas)_ *Boffa Emmanuel*  _(Salto: 7 Arrecifes: 3)_
+ - *8* - (37) _(3 fechas)_ *Lucidi Nicolas*  _(Diego_Gaynor: 4 Salto: 17 Brandsen: 8)_
+ - *9* - (35) _(1 fechas)_ *Marin Miguel Angel*  _(Diego_Gaynor: 1)_
  - *10* - (35) _(1 fechas)_ *Perez Abraham*  _(Salto: 1)_
  - *11* - (35) _(1 fechas)_ *Beledo Ivan*  _(Brandsen: 1)_
  - *12* - (33) _(3 fechas)_ *Di Battista Adrian*  _(Diego_Gaynor: 7 Salto: 16 Brandsen: 7)_

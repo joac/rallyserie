@@ -62,5 +62,5 @@ for cantidad in range(1, 5):
 print()
 print('## Resultados Campeonato')
 for pos, (corredor, puntos) in enumerate(corredor_puntos.most_common(), 1):
-    print(f' - *{pos:2d}* - ({puntos:2d}) _({len(corredor_resultados[corredor])} fechas)_ *{corredor.title()}*  _({format_resultados(corredor_resultados[corredor])})_')
+    print(f' - *{pos}* - ({puntos:2d}) _({len(corredor_resultados[corredor])} fechas)_ *{corredor.title()}*  _({format_resultados(corredor_resultados[corredor])})_')
 
