@@ -66,10 +66,10 @@ for pos, (corredor, puntos) in enumerate(corredor_puntos.most_common(), 1):
 
 print()
 print("## Cantidad de fechas")
-for cant in range(5, 0, -1):
+for cant in range(4, 0, -1):
     print(f"### {cant}")
     # Ineficiente, pero... son 77 filas
-    for corredor, puntos in corredor_puntos.most_common():
+    for pos, (corredor, puntos) in enumerate(corredor_puntos.most_common(), 1):
         resultados = corredor_resultados[corredor]
         if len(resultados) == cant:
-            print(f' - ({puntos:2d}) **{corredor.title()}**  _({format_resultados(corredor_resultados[corredor])})_')
+            print(f' - **{pos}** ({puntos:2d}) **{corredor.title()}**  _({format_resultados(corredor_resultados[corredor])})_')

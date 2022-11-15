@@ -88,85 +88,84 @@
  - **77** - ( 0) _(1 fechas)_ **García Lucas**  _(Brandsen: 29)_
 
 ## Cantidad de fechas
-### 5
 ### 4
- - (44) **Escalante Matias**  _(Diego_Gaynor: 11 Salto: 19 Brandsen: 6 Arrecifes: 5)_
- - (21) **Sorianello Joaquin**  _(Diego_Gaynor: 20 Salto: 21 Brandsen: 10 Arrecifes: 12)_
- - ( 2) **Vettorazzo Leandro Facundo**  _(Diego_Gaynor: 27 Salto: 35 Brandsen: 23 Arrecifes: 19)_
+ - **6** (44) **Escalante Matias**  _(Diego_Gaynor: 11 Salto: 19 Brandsen: 6 Arrecifes: 5)_
+ - **19** (21) **Sorianello Joaquin**  _(Diego_Gaynor: 20 Salto: 21 Brandsen: 10 Arrecifes: 12)_
+ - **49** ( 2) **Vettorazzo Leandro Facundo**  _(Diego_Gaynor: 27 Salto: 35 Brandsen: 23 Arrecifes: 19)_
 ### 3
- - (47) **Rienzi Gonzalo**  _(Diego_Gaynor: 6 Brandsen: 5 Arrecifes: 6)_
- - (46) **Zaya Sergio**  _(Diego_Gaynor: 5 Salto: 12 Brandsen: 4)_
- - (45) **Jauregui Guillermo**  _(Diego_Gaynor: 13 Salto: 5 Arrecifes: 4)_
- - (37) **Lucidi Nicolas**  _(Diego_Gaynor: 4 Salto: 17 Brandsen: 8)_
- - (33) **Di Battista Adrian**  _(Diego_Gaynor: 7 Salto: 16 Brandsen: 7)_
- - (33) **Butera Leandro**  _(Salto: 14 Brandsen: 9 Arrecifes: 7)_
- - (16) **Brauer Larraburu Julian**  _(Salto: 28 Brandsen: 17 Arrecifes: 9)_
- - (13) **Llorente Diego**  _(Salto: 23 Brandsen: 11 Arrecifes: 18)_
- - (12) **Ovejero Eduardo**  _(Diego_Gaynor: 17 Salto: 26 Brandsen: 13)_
- - (12) **Gutierrez Martinez Inti Benjamin**  _(Diego_Gaynor: 23 Brandsen: 19 Arrecifes: 11)_
- - ( 0) **Ramirez Machuca Leonel Angel**  _(Diego_Gaynor: 32 Salto: 32 Brandsen: 24)_
+ - **3** (47) **Rienzi Gonzalo**  _(Diego_Gaynor: 6 Brandsen: 5 Arrecifes: 6)_
+ - **4** (46) **Zaya Sergio**  _(Diego_Gaynor: 5 Salto: 12 Brandsen: 4)_
+ - **5** (45) **Jauregui Guillermo**  _(Diego_Gaynor: 13 Salto: 5 Arrecifes: 4)_
+ - **8** (37) **Lucidi Nicolas**  _(Diego_Gaynor: 4 Salto: 17 Brandsen: 8)_
+ - **12** (33) **Di Battista Adrian**  _(Diego_Gaynor: 7 Salto: 16 Brandsen: 7)_
+ - **13** (33) **Butera Leandro**  _(Salto: 14 Brandsen: 9 Arrecifes: 7)_
+ - **23** (16) **Brauer Larraburu Julian**  _(Salto: 28 Brandsen: 17 Arrecifes: 9)_
+ - **26** (13) **Llorente Diego**  _(Salto: 23 Brandsen: 11 Arrecifes: 18)_
+ - **28** (12) **Ovejero Eduardo**  _(Diego_Gaynor: 17 Salto: 26 Brandsen: 13)_
+ - **29** (12) **Gutierrez Martinez Inti Benjamin**  _(Diego_Gaynor: 23 Brandsen: 19 Arrecifes: 11)_
+ - **60** ( 0) **Ramirez Machuca Leonel Angel**  _(Diego_Gaynor: 32 Salto: 32 Brandsen: 24)_
 ### 2
- - (64) **Gerez Jonatan**  _(Salto: 2 Arrecifes: 1)_
- - (53) **Amondaray Mariano**  _(Salto: 3 Brandsen: 2)_
- - (38) **Boffa Emmanuel**  _(Salto: 7 Arrecifes: 3)_
- - (24) **Guglielmotti Leonel**  _(Diego_Gaynor: 8 Salto: 10)_
- - (20) **Salaberry Isaías**  _(Brandsen: 14 Arrecifes: 8)_
- - (19) **Bareiro Julio**  _(Diego_Gaynor: 12 Salto: 11)_
- - (12) **Vellon Nicolas**  _(Brandsen: 15 Arrecifes: 15)_
- - (11) **Baldovino Lucas**  _(Diego_Gaynor: 10 Salto: 22)_
- - ( 9) **Escobar Jorge**  _(Salto: 25 Brandsen: 12)_
- - ( 6) **Meroni Andres Raul**  _(Diego_Gaynor: 15 Salto: 38)_
- - ( 5) **Kraska Lucas**  _(Salto: 36 Arrecifes: 16)_
- - ( 4) **Barreira Leandro Rodrigo**  _(Diego_Gaynor: 18 Salto: 20)_
- - ( 0) **Caceres Cristian Ariel**  _(Diego_Gaynor: 28 Salto: 30)_
- - ( 0) **Aparicio Alfredo**  _(Diego_Gaynor: 29 Salto: 34)_
+ - **1** (64) **Gerez Jonatan**  _(Salto: 2 Arrecifes: 1)_
+ - **2** (53) **Amondaray Mariano**  _(Salto: 3 Brandsen: 2)_
+ - **7** (38) **Boffa Emmanuel**  _(Salto: 7 Arrecifes: 3)_
+ - **17** (24) **Guglielmotti Leonel**  _(Diego_Gaynor: 8 Salto: 10)_
+ - **21** (20) **Salaberry Isaías**  _(Brandsen: 14 Arrecifes: 8)_
+ - **22** (19) **Bareiro Julio**  _(Diego_Gaynor: 12 Salto: 11)_
+ - **31** (12) **Vellon Nicolas**  _(Brandsen: 15 Arrecifes: 15)_
+ - **32** (11) **Baldovino Lucas**  _(Diego_Gaynor: 10 Salto: 22)_
+ - **34** ( 9) **Escobar Jorge**  _(Salto: 25 Brandsen: 12)_
+ - **39** ( 6) **Meroni Andres Raul**  _(Diego_Gaynor: 15 Salto: 38)_
+ - **42** ( 5) **Kraska Lucas**  _(Salto: 36 Arrecifes: 16)_
+ - **44** ( 4) **Barreira Leandro Rodrigo**  _(Diego_Gaynor: 18 Salto: 20)_
+ - **56** ( 0) **Caceres Cristian Ariel**  _(Diego_Gaynor: 28 Salto: 30)_
+ - **57** ( 0) **Aparicio Alfredo**  _(Diego_Gaynor: 29 Salto: 34)_
 ### 1
- - (35) **Marin Miguel Angel**  _(Diego_Gaynor: 1)_
- - (35) **Perez Abraham**  _(Salto: 1)_
- - (35) **Beledo Ivan**  _(Brandsen: 1)_
- - (29) **Romero Alexis**  _(Diego_Gaynor: 2)_
- - (29) **Maldonado Hernan**  _(Arrecifes: 2)_
- - (24) **Zucchi Nicolas**  _(Diego_Gaynor: 3)_
- - (24) **Benitez Nicolas Martin**  _(Brandsen: 3)_
- - (20) **Ferreyra Gerardo**  _(Salto: 4)_
- - (15) **Guakuinchay Luis**  _(Salto: 6)_
- - (13) **Ricci Luciano**  _(Salto: 8)_
- - (12) **Coria Matias Ezequiel**  _(Diego_Gaynor: 9)_
- - (12) **Argañaraz Gonzalo**  _(Salto: 9)_
- - (11) **Fernández Diego**  _(Arrecifes: 10)_
- - ( 8) **Maldonadfo Hernan**  _(Salto: 13)_
- - ( 8) **Levandro Marcelo**  _(Arrecifes: 13)_
- - ( 7) **Avalos Esteban Alejandro**  _(Diego_Gaynor: 14)_
- - ( 7) **Caballero Cristian**  _(Arrecifes: 14)_
- - ( 6) **Llancaman Cristian**  _(Salto: 15)_
- - ( 5) **Scheurer Mario Daniel Elias**  _(Diego_Gaynor: 16)_
- - ( 5) **Bassoli Sergio**  _(Brandsen: 16)_
- - ( 4) **Herrera Nicolas Ariel**  _(Arrecifes: 17)_
- - ( 3) **Benítez Nicolas**  _(Salto: 18)_
- - ( 3) **Landgraf Sebastian**  _(Brandsen: 18)_
- - ( 2) **Marciani Raul Oscar**  _(Diego_Gaynor: 19)_
- - ( 1) **Carabajal Jorge**  _(Brandsen: 20)_
- - ( 0) **Freigeiro Nicolas**  _(Diego_Gaynor: 21)_
- - ( 0) **Butteri Alberto**  _(Diego_Gaynor: 22)_
- - ( 0) **Branda Matias**  _(Diego_Gaynor: 24)_
- - ( 0) **Ricco Nicolas**  _(Diego_Gaynor: 25)_
- - ( 0) **Molina Victor**  _(Diego_Gaynor: 26)_
- - ( 0) **Isla Casares Martin**  _(Diego_Gaynor: 30)_
- - ( 0) **Pantarotto Juan Pablo**  _(Diego_Gaynor: 31)_
- - ( 0) **Seifert Pedro Daniel**  _(Diego_Gaynor: 33)_
- - ( 0) **Buccino Martin**  _(Diego_Gaynor: 34)_
- - ( 0) **Alvarez Mauricio**  _(Diego_Gaynor: 35)_
- - ( 0) **Aradvari Horvat Mauro Leonel**  _(Diego_Gaynor: 36)_
- - ( 0) **Ramirez Ariel**  _(Salto: 24)_
- - ( 0) **Roldan German**  _(Salto: 27)_
- - ( 0) **Sorondo Jua**  _(Salto: 29)_
- - ( 0) **Moyano Ezequiel**  _(Salto: 31)_
- - ( 0) **Facundo Pinto**  _(Salto: 33)_
- - ( 0) **Juan Jose Kahian**  _(Salto: 37)_
- - ( 0) **Luise Juan Ignacio**  _(Brandsen: 21)_
- - ( 0) **Olvera Benjamin**  _(Brandsen: 22)_
- - ( 0) **Quinteros Romero Martin**  _(Brandsen: 25)_
- - ( 0) **Maio Juarros Alejandro**  _(Brandsen: 26)_
- - ( 0) **Gomez Ricardo Martin**  _(Brandsen: 27)_
- - ( 0) **Ramirez Dario**  _(Brandsen: 28)_
- - ( 0) **García Lucas**  _(Brandsen: 29)_
+ - **9** (35) **Marin Miguel Angel**  _(Diego_Gaynor: 1)_
+ - **10** (35) **Perez Abraham**  _(Salto: 1)_
+ - **11** (35) **Beledo Ivan**  _(Brandsen: 1)_
+ - **14** (29) **Romero Alexis**  _(Diego_Gaynor: 2)_
+ - **15** (29) **Maldonado Hernan**  _(Arrecifes: 2)_
+ - **16** (24) **Zucchi Nicolas**  _(Diego_Gaynor: 3)_
+ - **18** (24) **Benitez Nicolas Martin**  _(Brandsen: 3)_
+ - **20** (20) **Ferreyra Gerardo**  _(Salto: 4)_
+ - **24** (15) **Guakuinchay Luis**  _(Salto: 6)_
+ - **25** (13) **Ricci Luciano**  _(Salto: 8)_
+ - **27** (12) **Coria Matias Ezequiel**  _(Diego_Gaynor: 9)_
+ - **30** (12) **Argañaraz Gonzalo**  _(Salto: 9)_
+ - **33** (11) **Fernández Diego**  _(Arrecifes: 10)_
+ - **35** ( 8) **Maldonadfo Hernan**  _(Salto: 13)_
+ - **36** ( 8) **Levandro Marcelo**  _(Arrecifes: 13)_
+ - **37** ( 7) **Avalos Esteban Alejandro**  _(Diego_Gaynor: 14)_
+ - **38** ( 7) **Caballero Cristian**  _(Arrecifes: 14)_
+ - **40** ( 6) **Llancaman Cristian**  _(Salto: 15)_
+ - **41** ( 5) **Scheurer Mario Daniel Elias**  _(Diego_Gaynor: 16)_
+ - **43** ( 5) **Bassoli Sergio**  _(Brandsen: 16)_
+ - **45** ( 4) **Herrera Nicolas Ariel**  _(Arrecifes: 17)_
+ - **46** ( 3) **Benítez Nicolas**  _(Salto: 18)_
+ - **47** ( 3) **Landgraf Sebastian**  _(Brandsen: 18)_
+ - **48** ( 2) **Marciani Raul Oscar**  _(Diego_Gaynor: 19)_
+ - **50** ( 1) **Carabajal Jorge**  _(Brandsen: 20)_
+ - **51** ( 0) **Freigeiro Nicolas**  _(Diego_Gaynor: 21)_
+ - **52** ( 0) **Butteri Alberto**  _(Diego_Gaynor: 22)_
+ - **53** ( 0) **Branda Matias**  _(Diego_Gaynor: 24)_
+ - **54** ( 0) **Ricco Nicolas**  _(Diego_Gaynor: 25)_
+ - **55** ( 0) **Molina Victor**  _(Diego_Gaynor: 26)_
+ - **58** ( 0) **Isla Casares Martin**  _(Diego_Gaynor: 30)_
+ - **59** ( 0) **Pantarotto Juan Pablo**  _(Diego_Gaynor: 31)_
+ - **61** ( 0) **Seifert Pedro Daniel**  _(Diego_Gaynor: 33)_
+ - **62** ( 0) **Buccino Martin**  _(Diego_Gaynor: 34)_
+ - **63** ( 0) **Alvarez Mauricio**  _(Diego_Gaynor: 35)_
+ - **64** ( 0) **Aradvari Horvat Mauro Leonel**  _(Diego_Gaynor: 36)_
+ - **65** ( 0) **Ramirez Ariel**  _(Salto: 24)_
+ - **66** ( 0) **Roldan German**  _(Salto: 27)_
+ - **67** ( 0) **Sorondo Jua**  _(Salto: 29)_
+ - **68** ( 0) **Moyano Ezequiel**  _(Salto: 31)_
+ - **69** ( 0) **Facundo Pinto**  _(Salto: 33)_
+ - **70** ( 0) **Juan Jose Kahian**  _(Salto: 37)_
+ - **71** ( 0) **Luise Juan Ignacio**  _(Brandsen: 21)_
+ - **72** ( 0) **Olvera Benjamin**  _(Brandsen: 22)_
+ - **73** ( 0) **Quinteros Romero Martin**  _(Brandsen: 25)_
+ - **74** ( 0) **Maio Juarros Alejandro**  _(Brandsen: 26)_
+ - **75** ( 0) **Gomez Ricardo Martin**  _(Brandsen: 27)_
+ - **76** ( 0) **Ramirez Dario**  _(Brandsen: 28)_
+ - **77** ( 0) **García Lucas**  _(Brandsen: 29)_
